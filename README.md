@@ -27,7 +27,7 @@ This order gives visitors a quick overview first, then provides supporting detai
 
 The visual design uses a simple palette of dark green, off-white and a light green accent. Green gives the page a consistent identity and provides strong contrast in the introduction and contact panel. The pale background keeps the longer CV sections comfortable to read. Arial is used as a widely available sans-serif typeface, keeping the page simple and legible. The introduction uses large text to make the name and student role easy to notice, while the rest of the content is divided into cards and clearly titled sections. The profile photograph balances the introduction on larger screens and moves above the text on narrow screens. CSS grid and flexbox organise cards and navigation, with a media query adapting the layout for phones. The design aims to be clear and easy to scan rather than decorative.
 
-## Design and deployment links
+## Design link
 
 - Figma proposal: https://www.figma.com/design/JaN4jeJVjTPIUZDb8alQnW/CV-hypermedia-project?node-id=0-1&t=iNBeeMPFK8UozVjc-1 
 
